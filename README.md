@@ -13,6 +13,8 @@ For voracious readers, the internet can be a blessing and a curse. There are so 
 
 Enter ReadMe: an offline-first mobile app that—together with its [companion browser extension](https://github.com/Project-Readme/ReadMe-browser-extension "extension repository")—allows a reader to save articles, blog posts, and other text from their desktops and retrieve that content later for reading on their mobile device. If a user does run out of things to read our app has recommendations for them on the home screen. 
 
+TheReadMe App was built by [Simon](https://github.com/SimonGutierrez), [Daniel](https://github.com/dan2298), [Sarah](https://github.com/sarahtrefethen) and [Bryce](https://github.com/theNdroid) using React Native, Redux, and Cloud Firestore.   
+
 ## Getting Started
 
 This app is available on the [Expo](https://expo.io/ "Expo homepage") platform. After you have installed Expo onto your device you can run the app via this [link](https://expo.io/@tresarah/ReadMe-RN) (the easier option) or by building your own copy.  
@@ -51,6 +53,4 @@ Articles are downloaded from the remote database and saved locally on a user's d
 | ------------------------- |:-----------------------:|:-----------------------:|
 | ![Output sample](https://github.com/Project-ReadMe/ReadMe-EXPO/blob/master/resources/delete.gif)|![Output sample](https://github.com/Project-ReadMe/ReadMe-EXPO/blob/master/resources/searching.gif)| ![Output sample](https://github.com/Project-ReadMe/ReadMe-EXPO/blob/master/resources/offline2.gif)| 
 
-
-TheReadMe App was built by [Simon](https://github.com/SimonGutierrez), [Daniel](https://github.com/dan2298), [Sarah](https://github.com/sarahtrefethen) and [Bryce](https://github.com/theNdroid) using React Native, Redux, and Cloud Firestore.   
 
